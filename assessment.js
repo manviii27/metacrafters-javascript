@@ -49,4 +49,3 @@ const mySecondNFT = mintNFT("Awesome NFT", "Blue", "Hoodie", "Gold Crown");
 
 listNFTs();
 console.log("Total NFTs created: " + getTotalSupply());
-console.log(id);
